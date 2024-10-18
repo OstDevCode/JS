@@ -29,3 +29,6 @@ let personas =[ {
 personas.forEach(function(persona){
     console.log(`Hola mi nombre es ${persona.nombre}, y tengo ${persona.edad} años`)
 });
+
+
+//si
