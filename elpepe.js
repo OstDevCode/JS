@@ -25,7 +25,8 @@ let personas =[ {
 }
 
 ]
-
+//forEach para hacerlo en forma de lista
+//${} las llaves we
 personas.forEach(function(persona){
     console.log(`Hola mi nombre es ${persona.nombre}, y tengo ${persona.edad} años`)
 });
